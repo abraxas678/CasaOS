@@ -22,9 +22,10 @@ services:
         target: /config
 x-casaos:
   main: app
-  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverfleet/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverfleet/assets/icon.svg
   title:
     en_US: Fleet
+    zh_CN: Fleet
   port_map: '8080'
   id: wisdomsky.linuxserver.linuxserverfleet
   version: 2.3.3

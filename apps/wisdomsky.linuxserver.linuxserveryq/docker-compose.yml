@@ -17,9 +17,10 @@ services:
         target: /config
 x-casaos:
   main: app
-  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserveryq/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserveryq/assets/icon.svg
   title:
     en_US: Yq
+    zh_CN: Yq
   port_map: '80'
   id: wisdomsky.linuxserver.linuxserveryq
   version: 3.4.3

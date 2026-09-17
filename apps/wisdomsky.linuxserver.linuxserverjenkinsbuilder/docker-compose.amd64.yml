@@ -17,9 +17,10 @@ services:
         target: /config
 x-casaos:
   main: app
-  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverjenkinsbuilder/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverjenkinsbuilder/assets/icon.svg
   title:
     en_US: Jenkins builder
+    zh_CN: Jenkins builder
   port_map: '80'
   id: wisdomsky.linuxserver.linuxserverjenkinsbuilder
   version: version-4f81ddbe

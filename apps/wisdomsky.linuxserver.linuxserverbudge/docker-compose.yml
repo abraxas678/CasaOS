@@ -20,9 +20,10 @@ services:
         target: /config
 x-casaos:
   main: app
-  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverbudge/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverbudge/assets/icon.svg
   title:
     en_US: Budge (LinuxServer.io)
+    zh_CN: Budge（LinuxServer.io）
   id: wisdomsky.linuxserver.linuxserverbudge
   port_map: '80'
   version: 0.0.9

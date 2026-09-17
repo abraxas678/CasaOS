@@ -17,9 +17,10 @@ services:
         target: /config
 x-casaos:
   main: app
-  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverd2builder/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverd2builder/assets/icon.svg
   title:
     en_US: D2 builder
+    zh_CN: D2 builder
   port_map: '80'
   id: wisdomsky.linuxserver.linuxserverd2builder
   version: 0.6.8

@@ -17,9 +17,10 @@ services:
         target: /config
 x-casaos:
   main: app
-  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverunrar/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverunrar/assets/icon.svg
   title:
     en_US: Unrar
+    zh_CN: Unrar
   port_map: '80'
   id: wisdomsky.linuxserver.linuxserverunrar
   version: 7.0.9

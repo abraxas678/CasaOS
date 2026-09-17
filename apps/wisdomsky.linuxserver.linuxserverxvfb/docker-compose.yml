@@ -17,9 +17,10 @@ services:
         target: /config
 x-casaos:
   main: app
-  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverxvfb/assets/icon.png
+  icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverxvfb/assets/icon.svg
   title:
     en_US: Xvfb
+    zh_CN: Xvfb
   port_map: '80'
   id: wisdomsky.linuxserver.linuxserverxvfb
   version: debiantrixie-version-9d327c0f

@@ -23,5 +23,6 @@ x-casaos:
   icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxservercitron/assets/icon.png
   title:
     en_US: Citron
+    zh_CN: Citron
   id: wisdomsky.linuxserver.linuxservercitron
   version: 2026.02.1

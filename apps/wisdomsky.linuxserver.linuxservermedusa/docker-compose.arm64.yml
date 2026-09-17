@@ -1,7 +1,7 @@
 name: linuxserver-medusa
 services:
   app:
-    image: linuxserver/medusa:1.0.26@sha256:28b595ae40a63c9c47153167c9ee4107eab3b34e737e7d87db802ddaded42c6f
+    image: linuxserver/medusa:1.0.26@sha256:24f9a5a82b941d2c44fcfc7c06496190340f52d58dc87461e2d3de410d7d22c3
     restart: unless-stopped
     environment:
       PUID: $PUID
@@ -26,6 +26,7 @@ x-casaos:
   icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxservermedusa/assets/icon.png
   title:
     en_US: Medusa (LinuxServer.io)
+    zh_CN: Medusa（LinuxServer.io）
   id: wisdomsky.linuxserver.linuxservermedusa
   port_map: '8081'
   version: 1.0.26

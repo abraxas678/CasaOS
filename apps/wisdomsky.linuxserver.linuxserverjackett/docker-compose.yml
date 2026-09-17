@@ -1,7 +1,7 @@
 name: linuxserver-jackett
 services:
   app:
-    image: linuxserver/jackett:0.24.2601
+    image: linuxserver/jackett:0.24.2605
     restart: unless-stopped
     environment:
       PUID: $PUID
@@ -25,6 +25,7 @@ x-casaos:
   icon: https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages/apps/wisdomsky.linuxserver.linuxserverjackett/assets/icon.png
   title:
     en_US: Jackett (LinuxServer.io)
+    zh_CN: Jackett（LinuxServer.io）
   id: wisdomsky.linuxserver.linuxserverjackett
   port_map: '9117'
-  version: 0.24.2601
+  version: 0.24.2605
