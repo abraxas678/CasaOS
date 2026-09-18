@@ -8,17 +8,17 @@
   "developer": "LinuxServer.io",
   "author": "WisdomSky",
   "thumbnail": "/apps/wisdomsky.linuxserver.linuxserveremby/assets/emby-logo.webp",
-  "category": "Home",
+  "category": "Media",
   "title": "Emby (LinuxServer.io)",
   "base_url": "https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages",
   "id": "wisdomsky.linuxserver.linuxserveremby",
   "version": "4.10.0",
   "categories": [
-    "home"
+    "media"
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 443755506,
-    "arm64": 211864241
+    "amd64": 435000982,
+    "arm64": 203334959
   }
 }

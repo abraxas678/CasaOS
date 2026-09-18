@@ -7,16 +7,16 @@
   "developer": "LinuxServer.io",
   "author": "WisdomSky",
   "thumbnail": "/apps/wisdomsky.linuxserver.linuxserverbladeofagony/assets/boa-logo.webp",
-  "category": "Home",
+  "category": "Others",
   "title": "Blade of-agony (LinuxServer.io)",
   "base_url": "https://cdn.jsdelivr.net/gh/abraxas678/CasaOS@gh-pages",
   "id": "wisdomsky.linuxserver.linuxserverbladeofagony",
-  "version": "3.1.20260910",
+  "version": "3.1.20260917",
   "categories": [
-    "home"
+    "others"
   ],
   "min_memory": 0,
   "min_image_size": {
-    "amd64": 1770846162
+    "amd64": 1770941737
   }
 }
